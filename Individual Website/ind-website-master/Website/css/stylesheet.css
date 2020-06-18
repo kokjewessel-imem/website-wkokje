@@ -24,6 +24,10 @@ time, mark, audio, video {
 	margin-top: 70px;
 }
 
+body {
+  background-image: url("../images/background3.jpg");
+}
+
 .card-title{
 	font-style: oblique;
 }
